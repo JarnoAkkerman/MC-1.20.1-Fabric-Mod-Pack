@@ -22,8 +22,7 @@ Navigeer naar **.minecraft** -> **mods**.
 
 Open het zip bestand en Sleep alle **.jar** bestanden naar je Minecraft **mods** mapje.
 
-![enter image description here](https://cdn.discordapp.com/attachments/985952075210965074/1247216892805120182/image.png?ex=665f38bf&is=665de73f&hm=e830302afc1a8a1f0416c35c6846e4307d63505f95b51ac5e0a2a8f0e0ee5ba0&)
-
+![](https://cdn.discordapp.com/attachments/985952075210965074/1247216892805120182/image.png?ex=66632d3f&is=6661dbbf&hm=5db2c79bf70acea37f49c99db50ce92c56e3b3a0e5f7ff9a6f7d385b0642e019&)
 Als er word gevraagd of je de huidige bestanden wilt overschrijven doe je dat.
 
 ![enter image description here](https://cdn.discordapp.com/attachments/985952075210965074/1247217022773756037/image.png?ex=665f38de&is=665de75e&hm=0f401f5bf442aedce2361ee7137933892548473a0d256283ead0cbcf3287fedd&)
@@ -32,7 +31,7 @@ Als er word gevraagd of je de huidige bestanden wilt overschrijven doe je dat.
 
 Je kunt nu de Minecraft launcher openen. Als het goed is staat Fabric 1.20.1 meteen als geselecteerde versie. Check dit even voor de zekerheid. Je kan daarna op **Play** klikken!
 
-![enter image description here](https://cdn.discordapp.com/attachments/985952075210965074/1247218696364232785/Schermafbeelding_2024-06-03_175957.png?ex=665f3a6d&is=665de8ed&hm=245bdbcb02e435833b65a8e121bc8b242692b2cabd7c5800baa5b87c005a8607&)
+![](https://cdn.discordapp.com/attachments/985952075210965074/1247218696364232785/Schermafbeelding_2024-06-03_175957.png?ex=66632eed&is=6661dd6d&hm=ab9a751d1d01e13301f487b68fc5e11c5a8ffccdb50d844168580265413f2d83&)
 
 Als het is opgestart open je **Multiplayer** en kun je een nieuwe server toevoegen met IP **77.169.123.181:25565**.
 
