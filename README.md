@@ -14,7 +14,7 @@ Zorg dat je **1.20.1** selecteert, check **Use Distant Horizons beta version**, 
 
 Klik op **Win + R** en typ _%appdata%_
 
-![enter image description here](https://cdn.discordapp.com/attachments/985952075210965074/1247209901638291568/image.png?ex=665f323c&is=665de0bc&hm=fd95cd07a0dbcbb894f49c3b4dccf3af95e728eb85eb705a026b75db0a6510e1&)
+![](https://cdn.discordapp.com/attachments/985952075210965074/1247209901638291568/image.png?ex=666326bc&is=6661d53c&hm=6115ac65e23e9188f2a082f938890d74142c638781c081c41a57aa17c8510416&)
 
 Navigeer naar **.minecraft** -> **mods**.
 
