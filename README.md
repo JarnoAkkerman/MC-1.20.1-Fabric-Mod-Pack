@@ -36,4 +36,4 @@ Je kunt nu de Minecraft launcher openen. Als het goed is staat Fabric 1.20.1 met
 
 Als het is opgestart open je **Multiplayer** en kun je een nieuwe server toevoegen met IP **77.169.123.181:25565**.
 
-Enjoy!!
+Enjoy!
